@@ -32,7 +32,7 @@
         "sudo apt-get update -y",
         "sleep 10",
         "echo changed",
-	"export DEBIAN_FRONTEND=noninteractive",
+	"export DEBIAN_FRONTEND=noninteractive"
       ]
     }
   ]
